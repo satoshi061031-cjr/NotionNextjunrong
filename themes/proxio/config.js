@@ -18,7 +18,8 @@ const CONFIG = {
   PROXIO_HERO_BUTTON_2_ICON: '/images/starter/github-mark.svg', // 英雄区按钮2的图标，不需要则留空
 
   // 英雄区配图，如需隐藏，改为空值即可 ''
-  PROXIO_HERO_BANNER_IMAGE: '/images/D06F5F2E-1CF6-450B-BC8E-79A5D656CF3E_1_105_c.jpeg',
+  PROXIO_HERO_BANNER_IMAGE: '/D06F5F2E-1CF6-450B-BC8E-79A5D656CF3E_1_105_c.jpeg',
+
 
 
  // hero区背景，默认是获取Notion背景，如需另外配置图片可以填写在这里
